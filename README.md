@@ -1,44 +1,75 @@
-# Skilled e-learning landing page
+<h3 align="center">ELearning platform</h3>
 
-This is a solution to the [Skilled e-learning landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+  <p align="center">
+    ELearning platform
+    <br />
+    <a href="https://naskrik.github.io/ELearningLP/">View Demo</a>
+  </p>
+</div>
 
-## Table of contents
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+<!-- ABOUT THE PROJECT -->
 
-## Overview
+## About The Project
 
-### The challenge
+ELearning platform
 
-Users should be able to:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+### Built With
 
-### Screenshot
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![](./preview.jpg)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Links
+## Getting Started
 
-- Live Site URL: [Skilled e-learning landing page](https://skilled-elearning-trekab.netlify.app/)
+Follow the example
 
-## My process
+### Installation
 
-### Built with
+1. Clone the repo
+   ```sh
+   git clone https://github.com/naskriK/ELearningLP.git
+   ```
+2. Install dependencies
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+```sh
+  npm install
+```
 
-## Author
+3. Run a server
 
-- Website - [Treasure Kabareebe](https://trekab.io/)
-- Frontend Mentor - [@trekab](https://www.frontendmentor.io/profile/trekab)
-- LinkedIn - [Treasure Kabareebe](https://www.linkedin.com/in/treasure-kabareebe/)
+```sh
+  npm run dev
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contact
+
+Project Link: [https://github.com/naskriK/ELearningLP](https://github.com/naskriK/ELearningLP)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

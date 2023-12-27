@@ -30,16 +30,25 @@
         <a href="#" class="link link--started">Get Started</a>
       </header>
     </div>
-    <div class="wrapper wrapper--hero">
+    <div class="wrapper">
       <section class="hero">
-        <h1 class="hero__title">Maximize skill, minimize budget</h1>
-        <p class="hero__description">
-          Our modern courses across a range of in-demand skills will give you
-          the knowledge you need to live the life you want.
-        </p>
-        <a href="#" class="link link--cta">Get Started</a>
-
+        <div class="hero__content">
+          <h1 class="hero__title">Maximize skill, minimize budget</h1>
+          <p class="hero__description">
+            Our modern courses across a range of in-demand skills will give you
+            the knowledge you need to live the life you want.
+          </p>
+          <a href="#" class="link link--cta">Get Started</a>
+        </div>
         <picture>
+          <source
+            srcset="./src/assets/image-hero-mobile.webp"
+            media="(max-width:44rem)"
+          />
+          <source
+            srcset="./src/assets/image-hero-tablet.webp"
+            media="(max-width:54rem)"
+          />
           <img
             src="./src/assets/image-hero-desktop.webp"
             alt="Coding woman with floating statistics"
